@@ -1,6 +1,6 @@
-import img1 from "./images/book-1.jpg";
-import img2 from "./images/book-2.jpg";
-import img3 from "./images/book-3.jpg";
+import img1 from "./images/book1.jpg";
+import img2 from "./images/book2.jpg";
+import img3 from "./images/book3.jpg";
 export const books = [
   {
     author: "Jordan Moore",
@@ -21,3 +21,5 @@ export const books = [
     id: 3,
   },
 ];
+
+() => {};
